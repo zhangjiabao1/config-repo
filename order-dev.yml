@@ -6,4 +6,4 @@ eureka:
 env: dev1
 girl:
   name: lucy
-  age: 18
+  age: 20
