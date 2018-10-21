@@ -5,5 +5,5 @@ eureka:
     prefer-ip-address: true
 env: dev1
 girl:
-  name: lucy
+  name: lili
   age: 20
