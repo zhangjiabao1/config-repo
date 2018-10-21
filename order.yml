@@ -7,7 +7,7 @@ spring:
   jpa:
     show-sql: true
   rabbitmq:
-    host: 192.168.41.130
+    host: 192.168.41.131
     port: 5672
     username: root
     password: root
