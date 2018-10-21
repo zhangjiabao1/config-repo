@@ -3,7 +3,7 @@ server:
 eureka:
   instance:
     prefer-ip-address: true
-env: dev3
+env: dev4
 girl:
   name: lucy
   age: 18
